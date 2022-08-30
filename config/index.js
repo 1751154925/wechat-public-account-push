@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wxf9539476e88e9fbf",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "ce9e044afe0f7853909f04f8f970f3a1",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "KOjzls-NZyUO4kzjYR3-2JriOHXr9UIw6c4_BKXKl3s",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: [""],
+    USERS: ["o4fiZ6LL2rPyHGGPD4hwXW7jRF-0"],
      
     /**
      * 信息配置
@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "山东",
     // 所在城市
-    CITY: "惠州",
+    CITY: "淄博",
 
     /** 重要节日相关 */
 
@@ -30,7 +30,7 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "老婆", "year": "1996", "date": "01-01"},
+      {"type": "生日", "name": "王钰钰小宝", "year": "1996", "date": "01-01"},
       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
       {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
