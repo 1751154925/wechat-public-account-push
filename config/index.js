@@ -31,7 +31,7 @@ export const config = {
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
       {"type": "生日", "name": "王钰钰小宝", "year": "2002", "date": "02-12"},
-      {"type": "节日", "name": "恋爱纪念日", "year": "2020", "date": "10-30"},
+      {"type": "节日", "name": "恋爱纪念日", "year": "2021", "date": "10-30"},
       {"type": "生日", "name": "杜龙龙小宝", "year": "2001", "date": "12-06"},
       {"type": "节日", "name": "专升本考试", "year": "2023", "date": "03-06"},
     ],
@@ -43,16 +43,16 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2020-10-30",
+    LOVE_DATE: "2021-10-30",
     // 结婚纪念日
-    MARRY_DATE: "2020-10-30",
+    MARRY_DATE: "2020-09-10",
 
 
     /** 每日一言 */
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: "我是今天杜龙龙小宝，钰钰今天也要好好努力，用心学习，一直恩爱。"
+    LITERARY_PREFERENCE: "我是今天杜龙龙小宝,钰钰今天也要好好努力,用心学习,一直恩爱."
 
 
     }
@@ -63,7 +63,7 @@ export const config = {
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
 // 今天是我们恋爱的第{{love_day.DATA}}天
-// 今天是我们结婚的第{{marry_day.DATA}}天
+// 今天是我们相识的第{{marry_day.DATA}}天
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
